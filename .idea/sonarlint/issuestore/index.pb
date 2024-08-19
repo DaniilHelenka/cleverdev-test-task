@@ -1,0 +1,25 @@
+
+8
+mvnw.cmd,1/f/1f1763f358c257ea3515417352b82b0165647ad1
+~
+Nsrc/main/java/com/cleverdev/clientService/service/enums/PatientStatusEnum.java,4/0/4041f8d7d6faeec0811b896756fdbda9c710c780
+{
+Ksrc/main/java/com/cleverdev/clientService/repository/PatientRepository.java,7/2/7291fbfbec0cb292002a024bb6bdac38c53d1719
+ƒ
+Ssrc/main/java/com/cleverdev/clientService/exceptions/UserAlreadyExistException.java,c/2/c21b27b533e25ec473c503866005c4654facb076
+
+Osrc/main/java/com/cleverdev/clientService/exceptions/NoteNotFoundException.java,5/0/506a084add6f0d038ef101fe4884290123a3ca33
+‚
+Rsrc/main/java/com/cleverdev/clientService/exceptions/PatientNotFoundException.java,f/b/fbeb5d6b203d511de56ce63019f534c683d3a514
+
+Osrc/main/java/com/cleverdev/clientService/service/converter/PatientConvert.java,8/b/8bd153e14daccf776ffe60a794b62b619f548210
+
+Osrc/main/java/com/cleverdev/clientService/service/converter/UsersConverter.java,a/7/a742de1bcf8c75765aeeffba67f26fdc7cc08f63
+
+Osrc/main/java/com/cleverdev/clientService/exceptions/UserNotFoundException.java,5/6/56ec1a3056735e3f24d60ad38ba755617470abc5
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+x
+Hsrc/main/java/com/cleverdev/clientService/repository/NoteRepository.java,e/6/e6ba19777090fd7ee3718a85669cc6cb6e8554df
+r
+Bsrc/main/java/com/cleverdev/clientService/service/NoteService.java,9/5/95b21596d16a8ea3821b2aea1cb7f526822412ce
